@@ -5,3 +5,5 @@
 /.DS_Store
 /.env
 *.log
+curl-github-output.txt
+git-push-debug.txt
